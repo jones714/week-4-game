@@ -1,0 +1,28 @@
+
+body {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background color: red;
+  background-image: url("http://thecutestblogontheblock.com/wp-content/uploads/2011/11/harry-potter-battle-copy.jpg");
+}
+
+.container{
+
+  display: block;
+  width: 70%;
+
+}
+
+.header {
+
+  line-height: 10em;
+  color: white;
+  font-family: cursive;
+
+font-size: 20%
+}
+
+h1{
+
+  color: white;
+}
